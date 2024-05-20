@@ -25,10 +25,6 @@ Python Example
 --------------
 - General Display Demo
 
-Arduino Example
----------------
-- Function to write to the display
-
 Raspberry Pi Example
 --------------------
 - Open Display

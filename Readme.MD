@@ -15,23 +15,20 @@ Examples in BASH, C, Python, Arduino
 
 BASH Examples
 -------------
-- General Demo (General Device Capabilities)
-- CPU Activity Display
+- [General Demo (General Device Capabilities)](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/bash/display_demo.sh)
+- [CPU Activity Display](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/bash/cpu_usage.sh)
 
 C Example
 ---------
-- Open Display 
-- Function to write to the display
+- [Display Demo C Example](https://github.com/Irdroid/usb-7-segment-display/tree/main/examples/c_example)
 
 Python Example
 --------------
-- General Display Demo
+- [General Display Demo](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/python/display.py)
 
 Raspberry Pi Example
 --------------------
-- Open Display
-- Function to write to the display
-- Bash Example CPU Usage
+- [Display Demo](https://github.com/Irdroid/usb-7-segment-display/tree/main/examples/c_example)
 
 Applications
 ------------

@@ -14,20 +14,25 @@
 Examples in BASH, C and Python
 
 ## BASH Examples
--------------
+Implemented in bash, these examples can be runned from the console, display serial port is initialized via stty, to this application is needed,
+in order to configure the display serial port.
 - [General Demo (General Device Capabilities)](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/bash/display_demo.sh)
 - [CPU Activity Display](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/bash/cpu_usage.sh)
+
 ## C Example
----------
+The C example has a display.c/display.h for high level display initialization and access.
 - [Display Demo C Example](https://github.com/Irdroid/usb-7-segment-display/tree/main/examples/c_example)
+
 ## Python Example
---------------
+The Python example uses the pyserial library to operate the display, once connected and enumerated on the Host System,
+data can be sent to the display, using the pyserial.
 - [General Display Demo](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/python/display.py)
+
 ## Raspberry Pi Example
---------------------
+For Raspberry Pi the C example and the Bash examples can be used.
 - [Display Demo](https://github.com/Irdroid/usb-7-segment-display/tree/main/examples/c_example)
+
 ## Applications
-------------
 - Suitable for industrial applications
 - Display process variables
 - Display Activity

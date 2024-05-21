@@ -13,20 +13,20 @@
 
 Examples in BASH, C and Python
 
-##BASH Examples
+## BASH Examples
 -------------
 - [General Demo (General Device Capabilities)](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/bash/display_demo.sh)
 - [CPU Activity Display](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/bash/cpu_usage.sh)
-##C Example
+## C Example
 ---------
 - [Display Demo C Example](https://github.com/Irdroid/usb-7-segment-display/tree/main/examples/c_example)
-##Python Example
+## Python Example
 --------------
 - [General Display Demo](https://github.com/Irdroid/usb-7-segment-display/blob/main/examples/python/display.py)
-##Raspberry Pi Example
+## Raspberry Pi Example
 --------------------
 - [Display Demo](https://github.com/Irdroid/usb-7-segment-display/tree/main/examples/c_example)
-##Applications
+## Applications
 ------------
 - Suitable for industrial applications
 - Display process variables

@@ -39,8 +39,5 @@ For Raspberry Pi the C example and the Bash examples can be used.
 - Display Errors/Halts
 
 ## Real Projects that use the USB 7 Segment Display / Videos
-[![USB 7 Segment Display Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![USB 7 Segment Display Demo Video](https://github.com/Irdroid/usb-7-segment-display/blob/main/hardware/pictures/Screenshot%202024-05-21%20134546.png)](https://www.youtube.com/watch?v=8lMHGKwq2tQ)
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8lMHGKwq2tQ?si=ylGKIyv4z86MVq9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>

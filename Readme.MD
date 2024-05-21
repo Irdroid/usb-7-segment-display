@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Irdroid/usb-7-segment-display/blob/main/hardware/pictures/usb-7-segment-display-hi-res-small-web.jpg?raw=true)
 
-#USB 7 Segment Display Module
+# USB 7 Segment Display Module
 ----------------------------
 
 - Display 4 digits and characters

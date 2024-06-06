@@ -37,6 +37,9 @@ For Raspberry Pi the C example and the Bash examples can be used.
 - Display Activity
 - Display Errors/Halts
 
+## Purchase
+- [USB 7 Segment Display Adapter](https://irdroid.eu/product/usb-7-segment-display/)
+
 ## Real Projects that use the USB 7 Segment Display / Videos
 [![USB 7 Segment Display Demo Video](https://github.com/Irdroid/usb-7-segment-display/blob/main/hardware/pictures/Screenshot%202024-05-21%20134546.png)](https://www.youtube.com/watch?v=8lMHGKwq2tQ)
 
